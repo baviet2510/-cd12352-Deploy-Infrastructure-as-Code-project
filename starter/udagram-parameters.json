@@ -1,6 +1,14 @@
 [
 	{
-		"ParameterKey": "Add you parameters here",
-		"ParameterValue": "Add you parameters here"
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "WebApp"
+	},
+	{
+		"ParameterKey": "AMItoUse",
+		"ParameterValue": "ami-053b0d53c279acc90"
+	},
+	{
+		"ParameterKey": "AllowedInstanceType",
+		"ParameterValue": "t3.small"
 	}
 ]
